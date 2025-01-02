@@ -5,3 +5,4 @@ scikit-learn==1.5.2
 streamlit==1.41.1
 pickleshare==0.7.5 
 python==3.9.21
+xgboost==2.1.1
