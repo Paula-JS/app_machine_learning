@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
-from flask import Flask, request, jsonify, render_template, url_for
 
 
 st.set_page_config(
